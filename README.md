@@ -15,7 +15,7 @@ The architecture of our proposed model is as follows
 
 * Clone this repo
 ```
-git clone https://github.com/chentao2016/SMCP.git
+git clone https://github.com/NUST-Machine-Intelligence-Laboratory/SMCP.git
 ```
 
 ### Data Preparation for VOC Dataset
